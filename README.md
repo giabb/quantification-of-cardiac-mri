@@ -23,7 +23,7 @@ You have two ways of meeting the prerequisites
 - Second (offline)
   - Python3
   - Jupyter ``` pip install jupyterlab ```
-  - Tensorflow (via conda, pip, or choose gpu in colab)
+  - Tensorflow (via conda or pip)
     - ``` conda install tensorflow-gpu ```
     - ``` pip install tensorflow-gpu ```
   - OpenCV  ``` pip install opencv-python```
