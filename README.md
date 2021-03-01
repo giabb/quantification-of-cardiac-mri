@@ -4,7 +4,7 @@ This project was developed during the 2019 [Neural Network Course](http://www.un
 
 It is inspired on [Deep Regression Segmentation for Cardiac Bi-Ventricle MR Images](https://ieeexplore.ieee.org/document/8245780) paper by X. Du et al.  
 
-Since the right ventricles database is not open source, we adapted the project only on left ventricles.  
+Since the right ventricles dataset is not open source, we adapted the project only on left ventricles (which is open source and is available in this repository).  
 
 
 ## Getting Started
