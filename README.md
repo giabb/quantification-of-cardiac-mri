@@ -14,24 +14,24 @@ The project contains only a Jupyter Notebook file. Meet the prerequisite and use
 
 You have two ways of meeting the prerequisites
 
-#### First (recommended, online)
-- Use [Google Colaboratory](https://colab.research.google.com)
-- Done.
+- First (recommended, online)
+  - Use [Google Colaboratory](https://colab.research.google.com) 
+  - Done.
 
-#### Second (offline)
-- Python3
-- Jupyter ``` pip install jupyterlab ```
-- Tensorflow (via conda, pip, or choose gpu in colab)
-  - ``` conda install tensorflow-gpu ```
-  - ``` pip install tensorflow-gpu ```
-- OpenCV  ``` pip install opencv-python```
-- Matplotlib ``` pip install matplotlib```
-- Numpy ``` pip install numpy```
-- Scipy ``` pip install scipy```
-- Scikit-image ``` pip install scikit-image```
-- Scikit-learn ``` pip install scikit-learn```
-- Shapely ``` pip install shapely ```
-- OSGEO ``` pip install osgeo ```
+- Second (offline)
+  - Python3
+  - Jupyter ``` pip install jupyterlab ```
+  - Tensorflow (via conda, pip, or choose gpu in colab)
+    - ``` conda install tensorflow-gpu ```
+    - ``` pip install tensorflow-gpu ```
+  - OpenCV  ``` pip install opencv-python```
+  - Matplotlib ``` pip install matplotlib```
+  - Numpy ``` pip install numpy```
+  - Scipy ``` pip install scipy```
+  - Scikit-image ``` pip install scikit-image```
+  - Scikit-learn ``` pip install scikit-learn```
+  - Shapely ``` pip install shapely ```
+  - OSGEO ``` pip install osgeo ```
 
 
 ## Key Points
