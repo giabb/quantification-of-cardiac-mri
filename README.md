@@ -2,7 +2,9 @@
 
 This project was developed during the [Neural Network Course](http://www.uncini.com/dida/NN/index.html) held by [Prof. Uncini](http://www.uncini.com/) at [Sapienza University of Rome](https://www.uniroma1.it).
 
-It is inspired on [Deep Regression Segmentation for Cardiac Bi-Ventricle MR Images](https://ieeexplore.ieee.org/document/8245780) paper by X. Du et al.  Since the right ventricles database is not open source, we adapted the project only on left ventricles.  
+It is inspired on [Deep Regression Segmentation for Cardiac Bi-Ventricle MR Images](https://ieeexplore.ieee.org/document/8245780) paper by X. Du et al.  
+
+Since the right ventricles database is not open source, we adapted the project only on left ventricles.  
 
 
 ## Getting Started
