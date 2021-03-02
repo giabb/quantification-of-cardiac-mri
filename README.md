@@ -6,6 +6,13 @@ It is inspired on [Deep Regression Segmentation for Cardiac Bi-Ventricle MR Imag
 
 Since the right ventricles dataset is not open source, we adapted the project only on left ventricles (which is open source and is available in this repository).  
 
+## Summary
+
+  - [Getting Started](#getting-started)
+  - [Key Points](#key_points)
+  - [Authors](#authors)
+  - [License](#license)
+  - [Acknowledgments](#acknowledgments)
 
 ## Getting Started
 
