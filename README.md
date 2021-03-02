@@ -65,9 +65,13 @@ Some qualitative examples are reported. For quantitative examples (Pearson's cor
 
 ## Authors
 
-[@giabb](https://github.com/giabb) - [@FabioDiS](https://github.com/FabioDiS)
+  - **Giovanbattista Abbate** - [giabb](https://github.com/giabb)
+  - **Fabio Di Spazio** - [FabioDiS](https://github.com/FabioDiS)
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
+## Acknowledgments
+
+- **Billie Thompson** - *Provided README Template* - [PurpleBooth](https://github.com/PurpleBooth)
